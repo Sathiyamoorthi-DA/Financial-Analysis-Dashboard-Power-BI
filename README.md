@@ -9,7 +9,7 @@ An interactive financial analysis dashboard designed to help executive managemen
 
 ## Dashboard Preview
 
-[![Financial Analysis Dashboard](Screenshots/financial-analysis-dashboard.png)](https://github.com/Sathiyamoorthi-DA/Financial-analysis-powerbi/blob/main/Screenshots/financial-analysis-dashboard.png)
+[![Financial Analysis Dashboard](Screenshots/financial-analysis-dashboard.png)](https://github.com/Sathiyamoorthi-DA/Financial-analysis-power-BI/blob/main/Screenshots/financial-analysis-dashboard.png)
 
 ## Business Objective
 
