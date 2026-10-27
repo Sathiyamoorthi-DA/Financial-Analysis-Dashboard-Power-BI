@@ -99,7 +99,8 @@ financial-analysis-powerbi/
 ├── powerbi/
 │   └── financial_analysis_dashboard.pbix
 └── DAX_Measures.md
-## **How to Explore the Dashboard**
+----
+## How to Explore the Dashboard
 Download the Power BI report file (.pbix) if included in the repository.
 
 Open it using Microsoft Power BI Desktop.
